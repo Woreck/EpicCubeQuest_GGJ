@@ -1,14 +1,8 @@
-function toto() 
+var Player = function()
 {
-	console.log("titi");
-}
 
-function titi()
-{
-	console.log("tasoeur");
-}
-
-function tutu()
-{
-	console.log("tamere");
+	this.move = function()
+	{
+		
+	}
 }
