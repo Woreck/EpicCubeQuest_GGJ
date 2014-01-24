@@ -1,6 +1,6 @@
 function toto() 
 {
-	console.log("toto");
+	console.log("titi");
 }
 
 function titi()
